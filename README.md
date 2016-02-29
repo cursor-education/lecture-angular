@@ -63,15 +63,21 @@
   - are written with HTML
   - contains Angular-specific elements and attributes
   - types
-    - Directive
+    - Directive interpolation & Markup
       - a markers on a DOM element (such as an attribute, element name, comment or CSS class), that tell AngularJS's HTML compiler to attach a specified behavior to that DOM element or even to transform the DOM element and its children
       - ngBind, ngModel, and ngClass
       - normalization process
         - cut "x-" & "data-"
         - cut ":", "-" and "_"
         - to camelCase
-    - Markup
+      - https://jsfiddle.net/nsrr123r/1/
+      - @read https://docs.angularjs.org/guide/directive
     - Filter
+      - {{ expression | filter }}
+      - {{ expression | filter1 | filter2 | ... }}
+      - {{ expression | filter1:argument1:argument2 | .. }}
+      - {{ 1234 | number:2 }}
+      - https://jsfiddle.net/yerps1cm/1/
     - Form control
 - Bootstrap
 - Directives
