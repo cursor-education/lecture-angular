@@ -60,6 +60,9 @@
  - Add Some Control
    - 
 - Installation
+- View
+ - is an projection of the model through the HTML template
+ - when model changes the HTML view will be refreshed
 - Templating
   - are written with HTML
   - contains Angular-specific elements and attributes
@@ -114,7 +117,6 @@
 - Controllers
 - Scope
  - $scope / $rootScope
-- Views
 - Services
  - Constants & Values
  - Services
@@ -133,7 +135,7 @@
 ## Todo Simple Project
 - add todo button - https://jsfiddle.net/dspk3u63/2/
 - print todos - https://jsfiddle.net/dspk3u63/3/
-- 
+- a
 
 ## Examples
 - Hello World (https://www.youtube.com/watch?v=uFTFsKmkQnQ)
