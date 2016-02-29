@@ -2,6 +2,8 @@
 
 ![](http://new.tinygrab.com/7020c0e8b075dac69e0da439ec6ad3a3f18bcf6a01.png)
 
+## Intro
+
 - SPA
  - Single Page Apps
    - ![](https://msdn.microsoft.com/dynimg/IC690875.png)
@@ -26,20 +28,25 @@
    - ![](http://codecompiled.codecompiled.netdna-cdn.com/wp-content/uploads/2015/04/HTML-APP-CACHE.png)
     - b
     - c
-- Conceptual Overview
- - is fully client-side SPA framework
- - by Google, 2009
- - ![](http://new.tinygrab.com/7020c0e8b009c1ab1600bcf42ef07b1ed32f40fb0e.png)
- - https://angularjs.org/
- - lifecycle
-   - ![](http://singlepageappbook.com/assets/overview.png)
-    - compilation step creates pure HTML
-    - browser re-renders into the live view
-    - step is repeated for subsequent page views
-    - (in server-side meaning - controller and model interact within a server process to produce new HTML views)
-    - the controller and model state are maintained within the client browser
-    - Therefore new pages are generated without any interaction with a server
+
+## Conceptual Overview
+- is fully client-side SPA framework
+- by Google, 2009
+- ![](http://new.tinygrab.com/7020c0e8b009c1ab1600bcf42ef07b1ed32f40fb0e.png)
+- https://angularjs.org/
+- lifecycle
+  - ![](http://singlepageappbook.com/assets/overview.png)
+   - compilation step creates pure HTML
+   - browser re-renders into the live view
+   - step is repeated for subsequent page views
+   - (in server-side meaning - controller and model interact within a server process to produce new HTML views)
+   - the controller and model state are maintained within the client browser
+   - Therefore new pages are generated without any interaction with a server
+
+## Angular
 - Quick Start (\w example)
+- Installation
+- Templating
 - Bootstrap
 - Directives
  - ng-app
@@ -51,16 +58,31 @@
  - ng-controller
  - ng-repeat
  - ng-show & ng-hide
-- Data Binding
+- Two-way Data Binding
  - is an automatic way of updating the view whenever the model changes
 - Controllers
-- Views & Templates
+- Scope
+ - $scope / $rootScope
+- Views
 - Services
-- $scope / $rootScope
+ - Constants & Values
+ - Services
+ - Factories
+- Developing & Debugging
+- Digest Cycle & Watches
+ - The "watch"
+- Form Validation
+- Promises
+ - Q and $q
+ - The Deferred Object
+ - Route Resolve
+- Modules
+- Directives
 
+## Examples
 - Hello World (https://www.youtube.com/watch?v=uFTFsKmkQnQ)
 - ToDo (https://www.youtube.com/watch?v=WuiHuZq_cg4)
 
-- Read & Watch
+## Read & Watch
  - http://www.angularbasics.co.uk/#
  - https://egghead.io/technologies/angularjs
