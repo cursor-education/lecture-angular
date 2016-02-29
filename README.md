@@ -1,6 +1,6 @@
 # Angular 1.x
 
-![](https://cdn.tutsplus.com/net/authors/jeremymcpeak/spa-app-frameworks.png)
+![](http://new.tinygrab.com/7020c0e8b075dac69e0da439ec6ad3a3f18bcf6a01.png)
 
 - SPA
  - Single Page Apps
@@ -28,7 +28,7 @@
  - ![](http://new.tinygrab.com/7020c0e8b009c1ab1600bcf42ef07b1ed32f40fb0e.png)
  - https://angularjs.org/
  - lifecycle
-  - ![](http://singlepageappbook.com/assets/overview.png)
+   - ![](http://singlepageappbook.com/assets/overview.png)
    - compilation step creates pure HTML
    - browser re-renders into the live view
    - step is repeated for subsequent page views
