@@ -133,7 +133,10 @@
 ## Todo Simple Project
 - add todo button - https://jsfiddle.net/dspk3u63/2/
 - print todos - https://jsfiddle.net/dspk3u63/3/
-- a
+- add materialize & jquery - https://jsfiddle.net/dspk3u63/4/
+- no todos div - 
+- add underscore
+- https://jsfiddle.net/dspk3u63/5/
 
 ## Examples
 - Hello World (https://www.youtube.com/watch?v=uFTFsKmkQnQ)
