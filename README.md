@@ -46,7 +46,7 @@
 ## Angular
 - Quick Start (\w example)
  - add external resource (angular cdn)
-  - https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js
+   - https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js
  - hello name
   - https://jsfiddle.net/n4kkkm2q/
  - a
