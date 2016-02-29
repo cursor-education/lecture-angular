@@ -4,7 +4,7 @@
 
 - Conceptual Overview
  - by Google, 2009
- - ![](http://new.tinygrab.com/7020c0e8b0ed0f2d06191cdbdd90c4055626a7b3a9.png)
+ - ![](http://new.tinygrab.com/7020c0e8b009c1ab1600bcf42ef07b1ed32f40fb0e.png)
 - Quick Start (\w example)
 - Bootstrap
 - Controllers
