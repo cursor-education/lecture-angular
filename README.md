@@ -65,6 +65,11 @@
   - types
     - Directive
       - a markers on a DOM element (such as an attribute, element name, comment or CSS class), that tell AngularJS's HTML compiler to attach a specified behavior to that DOM element or even to transform the DOM element and its children
+      - ngBind, ngModel, and ngClass
+      - normalization process
+       - cut "x-" & "data-"
+       - cut ":", "-" and "_"
+       - to camelCase
     - Markup
     - Filter
     - Form control
