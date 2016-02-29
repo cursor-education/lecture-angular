@@ -95,12 +95,12 @@
  - ng-model
   - for 2-way binding
  - ng-repeat
-  - in array - https://jsfiddle.net/w24dp9mn/1/
-  - in object - https://jsfiddle.net/w24dp9mn/2/
-  - add orderBy - https://jsfiddle.net/w24dp9mn/3/
-  - add filter - https://jsfiddle.net/w24dp9mn/4/
-  - add ng-click - https://jsfiddle.net/w24dp9mn/5/
-  - add own filter - https://jsfiddle.net/w24dp9mn/6/
+   - in array - https://jsfiddle.net/w24dp9mn/1/
+   - in object - https://jsfiddle.net/w24dp9mn/2/
+   - add orderBy - https://jsfiddle.net/w24dp9mn/3/
+   - add filter - https://jsfiddle.net/w24dp9mn/4/
+   - add ng-click - https://jsfiddle.net/w24dp9mn/5/
+   - add own filter - https://jsfiddle.net/w24dp9mn/6/
  - ng-class
  - ng-controller
  - ng-repeat
