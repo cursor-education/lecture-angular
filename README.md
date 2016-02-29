@@ -8,7 +8,7 @@
     - similar to a desktop application
     - dynamically load content
     - technologies
-    - AJAX
+     - AJAX
      - Websockets
       - bidirectional stateful real-time client-server communication
      - Browser plugins
