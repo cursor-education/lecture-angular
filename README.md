@@ -80,6 +80,12 @@
       - https://jsfiddle.net/yerps1cm/1/
     - Form control
 - Bootstrap
+  - the "ng-app" directive
+  - the root element of our application
+  - AngularJS script tag
+  - Double-curly binding with an expression
+  - {{'yet' + '!'}}
+  - <p>1 + 2 = {{ 1 + 2 }}</p>
 - Directives
  - ng-app
   - an root element
