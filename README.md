@@ -10,12 +10,12 @@
     - technologies
       - AJAX
       - Websockets
-       - bidirectional stateful real-time client-server communication
+        - bidirectional stateful real-time client-server communication
       - Browser plugins
-       - (is outdated)
-      - Silverlight, Flash, or Java applets
+        - (is outdated)
+        - Silverlight, Flash, or Java applets
       - Data transport (XML, JSON and AJAX)
-       - client updates a partial area of the DOM
+        - client updates a partial area of the DOM
  - Conventional Web Applications
 - Conceptual Overview
  - is fully client-side framework
