@@ -23,9 +23,9 @@
       - divided by small fragments of the page
       - actions & updates
  - Conventional Web Applications
-  - a
-   - b
-   - c
+   - a
+    - b
+    - c
 - Conceptual Overview
  - is fully client-side SPA framework
  - by Google, 2009
