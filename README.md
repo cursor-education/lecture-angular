@@ -4,7 +4,7 @@
 
 - SPA
  - Single Page Apps
-  - one-page app
+   - one-page app
    - similar to a desktop application
    - dynamically load content
    - technologies
