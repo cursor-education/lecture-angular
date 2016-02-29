@@ -4,31 +4,29 @@
 
 ## Intro
 
-- SPA
- - Single Page Apps
-   - ![](https://msdn.microsoft.com/dynimg/IC690875.png)
-    - one-page app, similar to a desktop application
-    - they are becoming increasingly popular
-    - dynamically load content
-    - no page refresh on page change
-    - technologies
-      - AJAX
-      - Websockets
-        - bidirectional stateful real-time client-server communication
-        - over a single TCP connection
-      - Browser plugins
-        - (is outdated)
-        - Silverlight, Flash, or Java applets
-      - Data transport (XML, JSON and AJAX)
+- Conventional (traditional) Web Applications
+  - ![](http://new.tinygrab.com/7020c0e8b03d17dd0003089ae83719e30f670c2eaa.png)
+   - full page reload with all nested resources
+- SPA (Single Page Apps)
+  - ![](http://new.tinygrab.com/7020c0e8b0d84eb0b09f17142b0827e236073d7a81.png)
+   - one-page app, similar to a desktop application
+   - no page refresh on page change   
+   - dynamically load content
+   - technologies
+     - AJAX
+     - Websockets
+       - bidirectional stateful real-time client-server communication
+       - over a single TCP connection
+       - ![](http://orm-chimera-prod.s3.amazonaws.com/1230000000545/images/hpbn_1702.png)
+     - Browser plugins (is outdated)
+       - Silverlight, Flash, or Java applets
+     - Data transport
+       - XML, JSON and AJAX
         - client updates a partial area of the DOM
-    - lifecycle
-      - fully loaded in the initial page load
-      - divided by small fragments of the page
-      - actions & updates
- - Conventional (traditional) Web Applications
-   - ![](http://codecompiled.codecompiled.netdna-cdn.com/wp-content/uploads/2015/04/HTML-APP-CACHE.png)
-    - b
-    - c
+   - lifecycle
+     - fully loaded in the initial page load
+     - divided by small fragments (sections) of the page
+     - actions & updates on each fragment of page
 
 ## Conceptual Overview
 - is fully client-side SPA framework
