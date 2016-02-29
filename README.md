@@ -8,14 +8,14 @@
     - similar to a desktop application
     - dynamically load content
     - technologies
-     - AJAX
-     - Websockets
-      - bidirectional stateful real-time client-server communication
-     - Browser plugins
-      - (is outdated)
-     - Silverlight, Flash, or Java applets
-     - Data transport (XML, JSON and AJAX)
-      - client updates a partial area of the DOM
+      - AJAX
+      - Websockets
+       - bidirectional stateful real-time client-server communication
+      - Browser plugins
+       - (is outdated)
+      - Silverlight, Flash, or Java applets
+      - Data transport (XML, JSON and AJAX)
+       - client updates a partial area of the DOM
  - Conventional Web Applications
 - Conceptual Overview
  - is fully client-side framework
