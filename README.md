@@ -7,9 +7,10 @@
 - SPA
  - Single Page Apps
    - ![](https://msdn.microsoft.com/dynimg/IC690875.png)
-    - one-page app
-    - similar to a desktop application
+    - one-page app, similar to a desktop application
+    - they are becoming increasingly popular
     - dynamically load content
+    - no page refresh on page change
     - technologies
       - AJAX
       - Websockets
@@ -77,7 +78,7 @@
       - {{ expression | filter1 | filter2 | ... }}
       - {{ expression | filter1:argument1:argument2 | .. }}
       - {{ 1234 | number:2 }}
-      - https://jsfiddle.net/yerps1cm/1/
+      - https://jsfiddle.net/yerps1cm/2/
     - Form control
 - Bootstrap
   - the "ng-app" directive
@@ -86,12 +87,20 @@
   - Double-curly binding with an expression
   - {{'yet' + '!'}}
   - <p>1 + 2 = {{ 1 + 2 }}</p>
+  - ![](https://docs.angularjs.org/img/guide/concepts-startup.png)
 - Directives
  - ng-app
   - an root element
  - ng-bind
  - ng-model
   - for 2-way binding
+ - ng-repeat
+  - in array - https://jsfiddle.net/w24dp9mn/1/
+  - in object - https://jsfiddle.net/w24dp9mn/2/
+  - add orderBy - https://jsfiddle.net/w24dp9mn/3/
+  - add filter - https://jsfiddle.net/w24dp9mn/4/
+  - add ng-click - https://jsfiddle.net/w24dp9mn/5/
+  - add own filter - https://jsfiddle.net/w24dp9mn/6/
  - ng-class
  - ng-controller
  - ng-repeat
@@ -116,6 +125,9 @@
  - Route Resolve
 - Modules
 - Directives
+
+## Todo Simple Project
+
 
 ## Examples
 - Hello World (https://www.youtube.com/watch?v=uFTFsKmkQnQ)
