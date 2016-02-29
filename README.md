@@ -5,9 +5,9 @@
 - SPA
  - Single Page Apps
    - one-page app
-   - similar to a desktop application
-   - dynamically load content
-   - technologies
+    - similar to a desktop application
+    - dynamically load content
+    - technologies
     - AJAX
      - Websockets
       - bidirectional stateful real-time client-server communication
