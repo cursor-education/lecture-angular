@@ -95,16 +95,20 @@
  - ng-model
   - for 2-way binding
  - ng-repeat
-   - in array - https://jsfiddle.net/w24dp9mn/1/
+ - ng-class
+  - ng-class="expression"
+ - ng-controller
+ - ng-repeat
+ - ng-show & ng-hide
+ - ng-submit
+ - examples
+    - in array - https://jsfiddle.net/w24dp9mn/1/
     - in object - https://jsfiddle.net/w24dp9mn/2/
     - add orderBy - https://jsfiddle.net/w24dp9mn/3/
     - add filter - https://jsfiddle.net/w24dp9mn/4/
     - add ng-click - https://jsfiddle.net/w24dp9mn/5/
-    - add own filter - https://jsfiddle.net/w24dp9mn/6/
- - ng-class
- - ng-controller
- - ng-repeat
- - ng-show & ng-hide
+    - add own filter - https://jsfiddle.net/w24dp9mn/8/
+    - ng-class - https://jsfiddle.net/w24dp9mn/7/
 - Two-way Data Binding
  - is an automatic way of updating the view whenever the model changes
 - Controllers
@@ -127,7 +131,9 @@
 - Directives
 
 ## Todo Simple Project
-
+- add todo button - https://jsfiddle.net/dspk3u63/2/
+- print todos - https://jsfiddle.net/dspk3u63/3/
+- 
 
 ## Examples
 - Hello World (https://www.youtube.com/watch?v=uFTFsKmkQnQ)
