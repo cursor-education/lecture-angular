@@ -4,6 +4,7 @@
 
 - SPA
  - Single Page Apps
+   - ![](https://msdn.microsoft.com/dynimg/IC690875.png)
    - one-page app
     - similar to a desktop application
     - dynamically load content
