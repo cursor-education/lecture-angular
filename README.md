@@ -34,6 +34,13 @@
 - by Google, 2009
 - ![](http://new.tinygrab.com/7020c0e8b009c1ab1600bcf42ef07b1ed32f40fb0e.png)
 - https://angularjs.org/
+- resolves problems
+  - separate DOM manipulation & business logic (for testing purposes)
+  - client & server parts are separated (for parallel development)
+- includes
+  - CRUD apps (data-binding, validation, routing, server communication, etc)
+  - testing (end-to-end, mocks)
+  - a
 - lifecycle
   - ![](http://singlepageappbook.com/assets/overview.png)
    - compilation step creates pure HTML
@@ -47,9 +54,10 @@
 - Quick Start (\w example)
  - add external resource (angular cdn)
    - https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js
- - hello name
-  - https://jsfiddle.net/n4kkkm2q/
- - a
+ - the basics (hello name)
+   - https://jsfiddle.net/n4kkkm2q/
+ - Add Some Control
+   - 
 - Installation
 - Templating
 - Bootstrap
