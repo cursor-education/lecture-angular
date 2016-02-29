@@ -64,10 +64,10 @@
   - contains Angular-specific elements and attributes
   - types
     - Directive
-     - a markers on a DOM element (such as an attribute, element name, comment or CSS class), that tell AngularJS's HTML compiler to attach a specified behavior to that DOM element or even to transform the DOM element and its children
-   - Markup
-   - Filter
-   - Form control
+      - a markers on a DOM element (such as an attribute, element name, comment or CSS class), that tell AngularJS's HTML compiler to attach a specified behavior to that DOM element or even to transform the DOM element and its children
+    - Markup
+    - Filter
+    - Form control
 - Bootstrap
 - Directives
  - ng-app
