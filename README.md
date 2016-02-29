@@ -5,7 +5,7 @@
 - SPA
  - Single Page Apps
    - ![](https://msdn.microsoft.com/dynimg/IC690875.png)
-   - one-page app
+    - one-page app
     - similar to a desktop application
     - dynamically load content
     - technologies
@@ -23,6 +23,9 @@
       - divided by small fragments of the page
       - actions & updates
  - Conventional Web Applications
+  - a
+   - b
+   - c
 - Conceptual Overview
  - is fully client-side SPA framework
  - by Google, 2009
