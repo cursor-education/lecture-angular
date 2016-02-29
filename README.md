@@ -22,8 +22,8 @@
       - fully loaded in the initial page load
       - divided by small fragments of the page
       - actions & updates
- - Conventional Web Applications
-   - a
+ - Conventional (traditional) Web Applications
+   - ![](http://codecompiled.codecompiled.netdna-cdn.com/wp-content/uploads/2015/04/HTML-APP-CACHE.png)
     - b
     - c
 - Conceptual Overview
