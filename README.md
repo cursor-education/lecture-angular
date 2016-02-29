@@ -29,12 +29,12 @@
  - https://angularjs.org/
  - lifecycle
    - ![](http://singlepageappbook.com/assets/overview.png)
-   - compilation step creates pure HTML
-   - browser re-renders into the live view
-   - step is repeated for subsequent page views
-   - (in server-side meaning - controller and model interact within a server process to produce new HTML views)
-   - the controller and model state are maintained within the client browser
-   - Therefore new pages are generated without any interaction with a server
+    - compilation step creates pure HTML
+    - browser re-renders into the live view
+    - step is repeated for subsequent page views
+    - (in server-side meaning - controller and model interact within a server process to produce new HTML views)
+    - the controller and model state are maintained within the client browser
+    - Therefore new pages are generated without any interaction with a server
 - Quick Start (\w example)
 - Bootstrap
 - Directives
