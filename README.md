@@ -1,6 +1,6 @@
 # Angular 1.x
 
-![](https://jptacek.com/2014/02/angularJS-templates/angularLogo.png)
+![](https://cdn.tutsplus.com/net/authors/jeremymcpeak/spa-app-frameworks.png)
 
 - SPA
  - Single Page Apps
@@ -11,24 +11,30 @@
       - AJAX
       - Websockets
         - bidirectional stateful real-time client-server communication
+        - over a single TCP connection
       - Browser plugins
         - (is outdated)
         - Silverlight, Flash, or Java applets
       - Data transport (XML, JSON and AJAX)
         - client updates a partial area of the DOM
+    - lifecycle
+      - fully loaded in the initial page load
+      - divided by small fragments of the page
+      - actions & updates
  - Conventional Web Applications
 - Conceptual Overview
- - is fully client-side framework
+ - is fully client-side SPA framework
  - by Google, 2009
  - ![](http://new.tinygrab.com/7020c0e8b009c1ab1600bcf42ef07b1ed32f40fb0e.png)
  - https://angularjs.org/
  - lifecycle
-  - compilation step creates pure HTML
-  - browser re-renders into the live view
-  - step is repeated for subsequent page views
-  - (in server-side meaning - controller and model interact within a server process to produce new HTML views)
-  - the controller and model state are maintained within the client browser
-  - Therefore new pages are generated without any interaction with a server
+  - ![](http://singlepageappbook.com/assets/overview.png)
+   - compilation step creates pure HTML
+   - browser re-renders into the live view
+   - step is repeated for subsequent page views
+   - (in server-side meaning - controller and model interact within a server process to produce new HTML views)
+   - the controller and model state are maintained within the client browser
+   - Therefore new pages are generated without any interaction with a server
 - Quick Start (\w example)
 - Bootstrap
 - Directives
