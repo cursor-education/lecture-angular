@@ -145,3 +145,5 @@
 ## Read & Watch
  - http://www.angularbasics.co.uk/#
  - https://egghead.io/technologies/angularjs
+ - official Angular youtube channel
+   https://www.youtube.com/user/angularjs
