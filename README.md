@@ -143,6 +143,7 @@
 - ToDo (https://www.youtube.com/watch?v=WuiHuZq_cg4)
 
 ## Read & Watch
+ - https://gist.github.com/tachymetre/f9c806bff9cfff8f0c3e
  - http://www.angularbasics.co.uk/#
  - https://egghead.io/technologies/angularjs
  - official Angular youtube channel
